@@ -6,7 +6,7 @@ Building the future of business automation at **Rivex**. Together with my co-fou
 ---
 
 ### 🚀 About Me
-- 🛠️ **Current Focus:** Building **CK SRGE** (An AI-driven academic platform).
+- 🛠️ **Current Focus:** learning how to implement own llms to project.
 - 👨‍💻 **Role:** Co-Founder & Lead Developer at **Rivex**.
 - 🎓 **Education:** Software Engineering Student.
 - 📍 **Location:** Sri Lanka.
